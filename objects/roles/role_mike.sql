@@ -1,0 +1,1 @@
+CREATE ROLE mike LOGIN PASSWORD 'g0m1ke!';
